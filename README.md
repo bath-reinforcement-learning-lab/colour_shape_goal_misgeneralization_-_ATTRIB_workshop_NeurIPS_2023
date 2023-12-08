@@ -1,2 +1,2 @@
-# colour_shape_goal_misgeneralization_-_ATTRIB_workshop_NeurIPS_2023
-Code for paper "Colour versus Shape Goal Misgeneralization in Reinforcement Learning: A Case Study"
+# Colour versus Shape Goal Misgeneralization in Reinforcement Learning: A Case Study
+Code, trained models, experiment data and more [here](https://github.com/KarolisRam/colour-shape-goal-misgeneralization).
